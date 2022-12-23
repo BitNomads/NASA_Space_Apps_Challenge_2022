@@ -1,2 +1,2 @@
-# Major Project
+# Carrington-like event predicition system
 
